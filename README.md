@@ -12,10 +12,12 @@ This project focuses on atmosphere-driven horror through environmental design ra
 - NavMesh setup for AI movement
 - Enemy character placement and early AI logic
 - Collision and basic interaction systems
+- animations on enemy mesh (idle, running)
 
 ## Current Status
 This project is an **in-development prototype**.
 Enemy AI movement is under iteration, and gameplay objectives are planned for future milestones.
+enemy is moving and has animations(idle,running)
 
 ## Tech
 - Engine: Unreal Engine 5
