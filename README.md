@@ -16,7 +16,7 @@ This project focuses on atmosphere-driven horror through environmental design ra
 
 ## Current Status
 This project is an **in-development prototype**.
-Enemy AI movement is under iteration, and gameplay objectives are planned for future milestones.
+Enemy AI movement is working perfectly now navmesh gap covering is in process, and gameplay objectives are planned for future milestones.
 enemy is moving and has animations(idle,running)
 
 ## Tech
